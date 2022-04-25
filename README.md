@@ -1,4 +1,4 @@
-# Student Management Information System
+# Student Information Management System
 
 ## Automation of various Management Systems to increase efficiency:
 
